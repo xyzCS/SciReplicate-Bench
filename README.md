@@ -222,3 +222,14 @@ python Evaluation.py \
 export GoogleSearch_API_KEY="your_google_search_api_key"
 export GoogleSearch_CSEID="your_custom_search_engine_id"
 ```
+
+
+## Reference
+```
+@article{xiang2025scireplicate,
+  title={Scireplicate-bench: Benchmarking llms in agent-driven algorithmic reproduction from research papers},
+  author={Xiang, Yanzheng and Yan, Hanqi and Ouyang, Shuyin and Gui, Lin and He, Yulan},
+  journal={arXiv preprint arXiv:2504.00255},
+  year={2025}
+}
+```
